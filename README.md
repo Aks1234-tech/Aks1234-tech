@@ -1,12 +1,44 @@
-- 👋 Hi, I’m @Aks1234-tech
-- 👀 I’m interested in : Coding, Artificial Intelligence and Machine Learning, App development Through Java, Data Science, Blockchain, Cybersecurity
-- 🌱 I’m currently learning Computer Science with Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
-- 💞️ I’m looking to collaborate on Machine Learning projects, App development, Data Science projects, Research papers, Open-source contributions
-- 📫 How to reach me sharmaashwani12455@gmail.com,www.linkedin.com/in/ashwani-sharma-119610250, https://github.com/Aks1234-tech/Aks1234-tech
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to do Painting
+<h1 align="center">Hi 👋, I'm Ashwani Kumar Sharma</h1>
+<h3 align="center">Machine Learning | Blockchain | Cybersecurity | Java App Developer</h3>
 
-<!---
-Aks1234-tech/Aks1234-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👨‍💻 About Me
+- 💼 I'm a passionate **Computer Science Engineer** specializing in **AI, ML, DL, CV, and Cybersecurity**.
+- 🔭 Currently exploring:
+  - Machine Learning & Deep Learning
+  - Natural Language Processing (NLP)
+  - Computer Vision
+  - Blockchain Development
+  - App Development using **Java**
+- 🎯 Interested in real-world problem solving, tech for good, and open-source impact.
+
+---
+
+### 🤝 Let's Collaborate On
+- 🧠 Machine Learning / Deep Learning Projects  
+- 📱 App Development (Android / Java-based)
+- 📊 Data Science & Analytics Projects
+- 📚 Research Papers / AI Ethics & Security
+- 🌐 Open Source Contributions
+
+---
+
+### 🌐 Connect With Me
+<p>
+  📧 Email: <a href="mailto:sharmaashwani12455@gmail.com">sharmaashwani12455@gmail.com</a><br>
+  🔗 LinkedIn: [ashwani-sharma](https://www.linkedin.com/in/ashwani-sharma-119610250)<br>
+  💻 GitHub: [@Aks1234-tech](https://github.com/Aks1234-tech)
+</p>
+
+---
+
+### 🛠️ Skills & Tools
+```json
+{
+  "Languages": ["Python", "Java", "HTML", "CSS", "JavaScript"],
+  "Libraries/Frameworks": ["TensorFlow", "Keras", "PyTorch", "Scikit-learn", "OpenCV"],
+  "Tools": ["Git", "VS Code", "MATLAB", "Jupyter", "Google Colab"],
+  "Blockchain": ["Solidity", "Ethereum", "IPFS"],
+  "Other": ["Firebase", "MySQL", "ThingSpeak", "Simulink"]
+}
