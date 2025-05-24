@@ -61,4 +61,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aks1234-tech&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/> </p>
 
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p> 
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p> ```
