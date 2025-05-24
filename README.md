@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Machine Learning | 🔗 Blockchain | 🔒 Cybersecurity | ☕ Java App Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Engineer;AI+%7C+ML+%7C+DL+%7C+NLP+%7C+CV;Blockchain+%7C+Cybersecurity+%7C+Java+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Engineer;AI+%7C+ML+%7C+DL+%7C+NLP+%7C+CV;Cybersecurity+%7C+Java+Development" alt="Typing SVG" />
 </p>
 
 ---
