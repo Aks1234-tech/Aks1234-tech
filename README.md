@@ -44,8 +44,18 @@
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,tensorflow,pytorch,opencv,mysql,git,github,matlab,vscode,solidity,firebase" />
 </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aks1234-tech&show_icons=true&theme=tokyonight" alt="GitHub stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aks1234-tech&theme=tokyonight" alt="GitHub streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks1234-tech&layout=compact&theme=tokyonight" alt="Top languages" /> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aks1234-tech&theme=react-dark" alt="activity graph"/> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aks1234-tech&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/> </p>
+
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p> ```
+
 <details>
   <summary>📦 Tech Stack (JSON View)</summary>
+
+
 
 ```json
 {
@@ -55,10 +65,3 @@
   "Blockchain": ["Solidity", "Ethereum", "IPFS"],
   "Other": ["Firebase", "MySQL", "ThingSpeak", "Simulink"]
 }
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aks1234-tech&show_icons=true&theme=tokyonight" alt="GitHub stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aks1234-tech&theme=tokyonight" alt="GitHub streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aks1234-tech&layout=compact&theme=tokyonight" alt="Top languages" /> </p>
-
-<p align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aks1234-tech&theme=react-dark" alt="activity graph"/> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Aks1234-tech&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge"/> </p>
-
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </p> ```
